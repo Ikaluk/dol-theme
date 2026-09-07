@@ -74,7 +74,7 @@ Um das DOL-Theme zu verwenden, importiere es zunächst und setze anschließend d
   #import "@preview/dol-theme:{version}": *
   #show: dol-theme.with(
     title: [Rätselsprache],
-    author: [Merlin Jonathan Fischer],
+    author: [Jonta Ikaluk],
     points: 24,
     composition: [8+2+3+5+6]
   )
@@ -396,7 +396,7 @@ Außerdem die internen Konfigurationen der exportierten Funktionen.
   #show: dol-theme.with(
     title: [Rätselsprache],                             // hidden when metadata==false
     longtitle: [Grammatisches Phänomen in der Rätselsprache],           // for publish
-    author: [Merlin Jonathan Fischer],                  // hidden when metadata==false
+    author: [Jonta Ikaluk],                  // hidden when metadata==false
     points: 24,                                                                 // int
     composition: [8+2+3+5+6],                               // sum should equal points
     background: [Hintergrund und Quellen ...],                          // for publish
